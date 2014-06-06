@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "Debug odd callback returns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.4.1",
+    "multer": "^0.1.0"
+  }
+}
